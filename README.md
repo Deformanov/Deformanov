@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Deformanov
-- 💞️ I’m looking to collaborate on: Heroku 
+- 👋 Hi, I’m @Deformanov 
 - 📫 How to reach me: Telegram: @Deformanov
